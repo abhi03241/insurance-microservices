@@ -374,4 +374,6 @@ Test coverage includes controllers, repositories, exception handlers, and the au
 
 ## License
 
-This project is provided as a case-study reference implementation. Add a license of your choice before public distribution.
+Proprietary - All Rights Reserved.
+
+Copyright (c) Abhishek Shukla. This repository is private and confidential. Unauthorized copying, modification, distribution, or use of this code, via any medium, is strictly prohibited without the prior written permission of the author.
